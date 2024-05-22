@@ -1,21 +1,21 @@
-## Фронтенд веб-приложения для разрешением споров.
+## Frontend Web Application for Dispute Resolution
 
-**Как лучше коммитить через скрипт:**
+### How to Commit via Script:
 
-- используется для добавления всех изменений в индекс Git перед коммитом.
+- Used to add all changes to the Git index before committing.
 
-```bash
-git add .
-```
+  ```bash
+  git add .
+  ```
 
-- запускает скрипт для создания нового коммита в проекте.
+- Runs a script to create a new commit in the project.
 
-```bash
-npm run commit
-```
+  ```bash
+  npm run commit
+  ```
 
-**Запуск story book**
+### Running Storybook
 
-```bash
+  ```bash
   npm run storybook
-```
+  ```
